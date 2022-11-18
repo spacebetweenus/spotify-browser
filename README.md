@@ -1,6 +1,5 @@
-# spotify-browser
-# UCI INF 133
-# Professor Mark S. Baldwin
+# spotify-browser -- UCI INF 133
+Professor Mark S. Baldwin
 
 --Readme document for Guanchen Wu, guanchew@uci.edu
 
