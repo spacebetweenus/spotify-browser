@@ -1,5 +1,3 @@
---Readme document for Guanchen Wu, guanchew@uci.edu
-
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 14/15
